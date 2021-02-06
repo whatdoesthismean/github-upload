@@ -1,0 +1,12 @@
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\bin\Debug\CS115 Lab3.2 Clickable Number Images.exe.config
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\bin\Debug\CS115 Lab3.2 Clickable Number Images.exe
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\bin\Debug\CS115 Lab3.2 Clickable Number Images.pdb
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\bin\Debug\CS115 Lab3.2 Clickable Number Images.xml
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\obj\Debug\CS115 Lab3.2 Clickable Number Images.vbprojAssemblyReference.cache
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\obj\Debug\CS115_Lab3._2_Clickable_Number_Images.frmClickableNumberImages.resources
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\obj\Debug\CS115_Lab3._2_Clickable_Number_Images.Resources.resources
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\obj\Debug\CS115 Lab3.2 Clickable Number Images.vbproj.GenerateResource.cache
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\obj\Debug\CS115 Lab3.2 Clickable Number Images.vbproj.CoreCompileInputs.cache
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\obj\Debug\CS115 Lab3.2 Clickable Number Images.exe
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\obj\Debug\CS115 Lab3.2 Clickable Number Images.xml
+C:\Users\mothw\Downloads\Jeremy College\CS 115\Labs\CS115 Lab3.2 Clickable Number Images\CS115 Lab3.2 Clickable Number Images\obj\Debug\CS115 Lab3.2 Clickable Number Images.pdb
